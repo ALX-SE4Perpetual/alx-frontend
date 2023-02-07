@@ -451,3 +451,173 @@ Copy the content of 18-index.html into 20-index.html
 ##### Does not need to pass W3C
 
 ##### @@ File: 20-index.html
+
+
+#### 21. Add social media links
+
+Copy the content of 20-index.html into 21-index.html
+
+    - in the div in the footer
+        - remove any text you have
+        - create a link to https://www.facebook.com/HolbertonSchool/ with the text Facebook
+        - create a link to https://twitter.com/holbertonschool with the text Twitter
+        - create a link to https://www.instagram.com/holbertonschool/ with the text Instagram
+##### W3C won’t pass - you can ignore it
+
+##### @@ File: 21-index.html
+
+
+#### 22. "Button" links
+
+Copy the content of 21-index.html into 22-index.html
+
+    - in the Hero section, after the heading
+        - create a link to # with the text Get started
+    - in the About Us section, after the div containing the level 3 headings and paragraphs
+        - create a link to about.html with the text Learn more about us
+    - in the Contact section, after the div containing the paragraph
+        - create a link to contact.html with text Get in touch
+##### Does not need to pass W3C
+
+##### @@ File: 22-index.html
+
+
+#### 23. Services, Works, Latest news links
+
+Copy the content of 22-index.html into 23-index.html
+
+    - in the Services section
+        - in each level 3 heading, create a link to # around the text already in the heading
+    - in the Works section
+        - in each level 3 heading, create a link to # around the text already in the heading
+    - in the Latest news section
+        - in each level 3 heading, create a link to # around the text already in the heading
+##### Does not need to pass W3C
+
+##### @@ File: 23-index.html
+
+
+#### 24. List the links
+
+Copy the content of 23-index.html into 24-index.html
+
+    - in the nav
+        - create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
+    - in the div in the footer
+        - create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
+##### W3C does not need to pass
+
+##### @@ File: 24-index.html
+
+
+#### 25. Secondary navigation menu
+
+Copy the content of 24-index.html into 25-index.html
+
+    - inside the footer, after the div
+        - create a new div
+        - in the new div create an unordered list with the following links:
+            - link to # with text Terms of Use
+            - link to # with text Privacy Policy
+            - link to # with text Cookie Policy
+##### W3C does not need to pass
+
+##### @@ File: 25-index.html
+
+
+#### 26. Examples of lists for the styleguide
+
+Copy the content of 13-styleguide.html into 26-styleguide.html
+
+##### Example of unordered list:
+
+    - inside main after Paragraph section, add :
+        - a new line and a comment with text Lists
+        - after, create a new section with inside:
+            - create a header with inside a level 2 heading with the text Lists
+            - after the new header, create a div with inside:
+                - a level 3 heading with text Unordered
+                    - under it, add an unordered list with these items: Dolor pulvinar etiam magna etiam., Sagittis adipiscing lorem eleifend., Felis enim feugiat dolore viverra.
+
+##### Example of ordered list:
+
+    - after previous unordered list, in the same div
+        - add a level 3 heading with text Ordered
+            - add an ordered list with these items:
+                1. Dolor pulvinar etiam magna etiam.
+                2. Sagittis adipiscing lorem eleifend.
+                3. Felis enim feugiat dolore viverra.
+
+##### Example of definition list:
+
+    - after previous ordered list, in the same div
+        - add a heading level 3 with text Definition
+        - add a definition list with these items:
+            1. Term: Definition List title, Definition: Definition text.
+            2. Term: Startup, Definition: A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+            3. Term: Water, Definition: A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+
+##### @@ File: 26-styleguide.html
+
+
+#### 27. Separate content
+
+Copy the content of 25-index.html into 27-index.html
+
+    - in the footer between the two divs:
+        - add a horizontal rule
+        - after the horizontal rule add a paragraph with text © 2020 Techium, made with ♥ by students at Holberton School.
+##### W3C does not need to pass
+
+##### @@ File: 27-index.html
+
+
+#### 28. Horizontal rule example
+
+Copy the content of 26-styleguide.html into 28-styleguide.html
+
+    - in main after Lists section
+        - add a new line and a comment with the text Horizontal rule
+        - create a new section
+            - create a header and inside it add a level 2 heading with the text Horizontal rule
+            - after the header create a div and put a horizontal rule in it
+##### @@ File: 28-styleguide.html
+
+
+#### 29. Client quotes
+
+Copy the content of 27-index.html into 29-index.html
+
+    - in the Testimonials section
+        - in the first article
+            - replace the text with a blockquote with text I am completely blown away. Thanks to Techium, we've just launched our 5th website! and cite author Yuri Y.
+    - in the second article
+        - replace the text with a blockquote with text Thank you so much for your help. Techium company is awesome! and cite author Dorrie S.
+    -   in the third article
+        - replace the text with a blockquote with text I love your system. Definitely worth the investment. I'd be lost without Techium company. and cite author Sven H.
+##### W3C does not need to pass
+
+##### @@ File: 29-index.html
+
+
+#### 30. Examples of quotes
+
+Copy the content of 28-styleguide.html into 30-styleguide.html
+
+##### Example of inline quote:
+
+    - inside main after Horizontal rule section
+        - add a new line and a comment with text Blockquotes
+        - create a new section
+            - in the section create a header, in the header create a level 2 heading with text Blockquotes
+            - after the header, create a div
+                - in the div add a level 3 heading with the text Inline quote
+                - add an inline quote with the text Stay hungry. Stay foolish.
+
+##### Example of blockquote:
+
+    - after the inline quote div, create another div
+        - in the new div add a level 3 heading with the text Blockquote
+        - add a multiline quote with the text I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. and cite Kanye West, Musician
+
+##### @@ File: 30-styleguide.html
