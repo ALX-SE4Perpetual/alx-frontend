@@ -621,3 +621,165 @@ Copy the content of 28-styleguide.html into 30-styleguide.html
         - add a multiline quote with the text I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. and cite Kanye West, Musician
 
 ##### @@ File: 30-styleguide.html
+
+
+#### 31. Address and latest news authors
+
+Copy the content of 29-index.html into 31-index.html
+
+    - in the footer
+        - right after open footer tag, put the following address: 234 Washington Street (line-break) Urbana, Illinois
+    - in the Latest news section
+        - in the first article, after the last paragraph, add the author name in small print: By Kelly D.
+        - in the second article, after the last paragraph, add the author name in small print: By William A.
+        - in the third article, after the last paragraph, add the author name in small print: By Frances J.
+
+##### @@ File: 31-index.html
+
+
+#### 32. Typography section - using the correct tags
+
+Copy the content of 30-styleguide.html into 32-styleguide.html
+
+    - inside main after the Blockquotes section
+
+        - add a new line and a comment with text Typography
+        - create a new section
+
+    - in the section create a header and inside it add a level 2 heading with the text Typography
+    - after the header create a div, inside the div add this text with the correct HTML tag: 320 Stewart Avenue, Unit 12 (line break) New York City NY 10001, the city, state, and postal code should be on a separate line
+    - create another div, in the new div nest this code block using the pre HTML tag:
+
+    ```bash
+    <code>
+        <h2>My title</h2>
+        <p>Proin lacus turpis, feugiat sit amet sollicitudin non, volutpat in libero. Aenean hendrerit ultrices nulla ac lobortis. Vestibulum consectetur nibh vel ante rhoncus faucibus.</p>
+    </code>
+    ```
+    - create another div, in the new div add this paragraph of text with the correct HTML tag: Curabitur sit amet turpis cursus massa mollis highlighted. Duis finibus leo massa, eget dapibus erat finibus sed. Aenean condimentum sapien magna, eleifend highlighted mi consequat ut. Cras nec quam sed sapien ultricies highlighted ut sed metus. Each occurrence of the word highlighted should be highlighted.
+##### W3C does not need to pass
+
+##### @@ File: 32-styleguide.html
+
+
+#### 33. Table
+
+Copy the content of 32-styleguide.html into 33-styleguide.html
+
+    - inside main after Typography section
+        - add a new line and a comment with text Table
+        - create a new section
+            - in the section create a header, in the header add a level 2 heading with the text Table
+            - after the header, create a table, reproduce in HTML the visual below
+![Table Content](./images/table_img.jpg)
+
+The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
+##### Due to previous task, does not have to pass W3C
+
+##### @@ 33-styleguide.html
+
+
+#### 34. Details
+
+Copy the content of 33-styleguide.html into 34-styleguide.html
+
+    - in main tag after Table section
+        - add a new line and a comment with text Details
+        - create a new section
+            - create a header, in the header add a level 2 heading with the text Details
+            - after the header create a div
+                - in the div add a level 3 heading with text Default
+                - add a details element and specify Show/Hide me in the summary
+                - add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+            - create another div
+                - add a level 3 heading with text Open
+                - add a details element that is open by default and specify Always open in the summary
+                - add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+##### Due to earlier task, does not have to pass W3C
+
+##### @@ File: 34-styleguide.html
+
+
+#### 35. Replace text logo with image logo
+
+![Technium](./images/technium.png)
+
+Copy the content of 31-index.html into 35-index.html
+
+    - in header
+        - find the span with the name of the website
+        - replace it with the image above
+        - make sure the image is in the same directory as all of your other files and that the file name is logo-black.png
+        - alt: Techium logo
+        - don’t forget to specify width of 160 and height of 40
+    - in footer, after the opening tag and before the address
+        - insert the logo image
+        - alt: Techium logo
+        - don’t forget to specify the width and height (same as in header)
+##### W3C does not need to pass
+
+##### @@ File: 35-index.html
+
+
+#### 36. Add images to your sections
+
+Copy the content of 35-index.html into 36-index.html
+
+You can use image generators to get images for this task. For avatar images you can download them on UI Faces. Just make sure you rename your images to match the task requirements.
+
+##### Add three images in the Works section:
+    - in the Works section
+        - before the first level 3 heading create a div
+            - add images/pic-work-01.jpg inside the div
+            - alt: empty
+        - before the second level 3 heading create a div
+            - add images/pic-work-02.jpg inside the div
+            - alt: empty
+        - before the third level 3 heading create a div
+            - add images/pic-work-03.jpg inside the div
+            - alt: empty
+##### Add one image in the About Us section:
+
+    - in the About Us section before the first level 3 heading inside the div
+        - add the image images/pic-about-us.jpg
+            - alt: empty
+            - width: 460
+            - height: 447
+##### Add three images in the Latest news section:
+
+    - in the Latest news section
+        - in the first article, before the first paragraph, create a div
+            - in the div add the image images/pic-blog-01.jpg
+            - alt: empty
+            - width: 305
+            - height: 205
+        - in the second article, before the first paragraph, create a div
+            - in the div add the image images/pic-blog-02.jpg
+            - alt: empty
+            - width: 305
+            - height: 205
+        - in the third article, before the first paragraph, create a div
+            - in the div add the image images/pic-blog-03.jpg
+            - alt: empty
+            - width: 305
+            - height: 205
+##### Add three images in the Testimonials section:
+
+    - in the Testimonials section
+        - in the first article before the quote, add the image images/pic-person-01.jpg
+            - alt: Yuri Y. avatar
+            - width: 100px
+            - height: 100px
+        - in the second article before the quote, add the image images/pic-person-02.jpg
+            - alt: Dorrie S. avatar
+            - width: 100px
+            - height: 100px
+        - in the third article before the quote, add the image images/pic-person-03.jpg
+            - alt: Sven H. avatar
+            - width: 100px
+            - height: 100px
+##### Does not need to pass W3C
+
+##### @@ File: 36-index.html
+
+
