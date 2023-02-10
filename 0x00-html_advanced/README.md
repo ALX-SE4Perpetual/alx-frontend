@@ -21,6 +21,8 @@
 
     - [1. Structure your webpage](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#1-structure-your-webpage)
 
+    - [2. The head - meta charset, viewport, title, description, favicons](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#2-the-head---meta-charset-viewport-title-description-favicons)
+
     - [3. Simple header, main, footer](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#3-simple-header-main-footer)
 
     - [4. Aside](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#4-aside)
