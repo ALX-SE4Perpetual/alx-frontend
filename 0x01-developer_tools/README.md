@@ -5,97 +5,83 @@
 
 ## Table of Contents
 
-- [Resources](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#resources)
+- [Resources](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#resources)
 
-- [Learning Objectives](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#learning-objectives)
+- [Learning Objectives](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#learning-objectives)
 
-- [Requirements](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#requirements)
+- [Requirements](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#requirements)
 
-- [Sitemap of the project](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#sitemap-of-the-project)
+- [Tasks](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#tasks)
 
-- [Wireframe of Techium project](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#wireframe-of-the-techium-project)
+    - [0. Responsive device](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#0-responsive-device)
 
-- [Tasks](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#tasks)
+    - [1. Change the background color](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#1-change-the-background-color)
 
-    - [0. Create your first webpage](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#0-create-your-first-webpage)
+    - [2. Force element state](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#2-force-element-state)
 
-    - [1. Structure your webpage](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#1-structure-your-webpage)
+    - [3. Copy all the styles of the button](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#3-copy-all-the-styles-of-the-button)
 
-    - [3. Simple header, main, footer](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#3-simple-header-main-footer)
+    - [4. Change button styles](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#4-change-button-styles)
 
-    - [4. Aside](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#4-aside)
+    - [5. Remove part of the website](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#5-remove-part-of-the-website)
 
-    - [5. Section](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#5-section)
+    - [6. Where is it coming from?](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#6-where-is-it-coming-from)
 
-    - [6. Work, News, Testimonial articles](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#6-work-news-testimonial-articles)
+    - [7. How many listeners](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#7-how-many-listeners)
 
-    - [7. Navigation](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#7-navigation)
+    - [8. What is the HSL code](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#8-what-is-the-hsl-code)
 
-    - [8. Level 1 headings](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#8-level-1-headings)
+    - [9. The max-width of the container](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#9-the-max-width-of-the-container)
 
-    - [9. Level 2 headings](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#9-level-2-headings)
+    - [10. Moving around](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#10-moving-around)
 
-    - [10. Level 3 headings](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#10-level-3-headings)
+    - [11. Coverage](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#11-coverage)
 
-    - [11. styleguide](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#11-styleguide)
+    - [12. Emulate the print version of the webpage](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#12-emulate-the-print-version-of-the-webpage)
 
-    - [12. Paragraphs](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#12-paragraphs)
+    - [13. Using the console](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#13-using-the-console)
 
-    - [13. styleguide paragraphs](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#13-styleguide-paragraphs)
+    - [14. Write code in the console](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#14-write-code-in-the-console)
 
-    - [14. Span](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#14-span)
+    - [15. Web framework](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#15-web-framework)
 
-    - [15. Div](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#15-div)
+    - [16. Homepage weight](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#16-homepage-weight)
 
-    - [16. Structure your sections](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#16-structure-your-sections)
+    - [17. Number of requests](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#17-number-of-requests)
 
-    - [17. Comments](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#17-comments)
+    - [18. Number of CSS files](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#18-number-of-css-files)
 
-    - [18. link your logo](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#18-link-your-logo)
+    - [19. Number of images](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#19-number-of-images)
 
-    - [19. Create new pages](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#19-create-new-pages)
+    - [20. Favicon image type](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#20-favicon-image-type)
 
-    - [20. Add links](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#20-add-links)
+    - [21. Font library](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#21-font-library)
 
-    - [21. Add social media links](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#21-add-social-links)
+    - [22. XHR calls](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#22-xhr-calls)
 
-    - [22. "Button" links](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#22-button-links)
+    - [23. Audits panel](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#23-audits-panel)
 
-    - [23. Services, Works, Latest news links](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#23-services-works-latest-news-links)
+    - [24. Static assets](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#24-static-assets)
 
-    - [24. List the links](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#24-list-the-links)
+    - [25. Accessibility](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#25-accessibility)
 
-    - [25. Secondary navigation menu](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#25-secondary-navigation-menu)
+    - [26. No alt](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#26-no-alt)
 
-    - [26. Examples of lists for the styleguide](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#26-examples-of-lists-for-the-styleguide)
+    - [27. Best practices](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#27-best-practices)
 
-    - [27. Separate content](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#27-separate-content)
+    - [28. SEO](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#28-seo)
 
-    - [28. Horizontal rule example](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#28-horizontal-rule-example)
+    - [29. Sources](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#29-sources)
 
-    - [29. Client quotes](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#29-client-quotes)
+    - [30. Block CSS files](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#30-block-css-files)
 
-    - [30. Examples of quotes](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#30-examples-of-quotes)
+    - [31. Application panel](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#31-application-panel)
 
-    - [31. Address and latest news authors](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#31-address-and-latest-news-authors)
+    - [32. Service workers](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#32-service-workers)
 
-    - [32. Typography section - using the correct tags](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#32-tyography-section---using-the-correct-tags)
+    - [33. Security](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#33-security)
 
-    - [33. Table](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#33-table)
-
-    - [34. Details](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#34-details)
-
-    - [35. Replace text logo with image logo](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#35-replace-text-logo-with-image-logo)
-
-    - [36. Add images to your sections](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#36-add-images-to-your-sections)
-
-    - [37. Social icons](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#37-social-icons)
-
-    - [38. Add a video player in the styleguide](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#38-add-a-video-player-in-the-styleguide)
-
-    - [39. Add an audio player in the styleguide](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#39-add-an-audio-player-in-the-styleguide)
-
-    - [40. Add a iframe example in the styleguide](https://github.com/Perpy-del/alx-frontend/tree/main/0x00-html_advanced#40-add-a-iframe-example-in-the-styleguide)
+    - [34. Expiration date](https://github.com/Perpy-del/alx-frontend/tree/main/0x01-developer_tools#34-expiration-date)
 
 
 
