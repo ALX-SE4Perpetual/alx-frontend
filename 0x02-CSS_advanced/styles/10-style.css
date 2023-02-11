@@ -35,7 +35,7 @@ a {
 targeting the class section-header */
 .section-header {
     display: flex;
-    justify-content: var(--section-header-align);
+    align-items: var(--section-header-align);
 }
 
 .section-tagline {
