@@ -6,18 +6,18 @@ body {
     background-color: #161616;
 }
 
-*a {
+a {
     background-color: #161616;
 }
 
-*.visually-hidden {
+.visually-hidden {
     display: none;
 }
 
-*.card-category {
+.card-category {
     background-color: #D73953;
 }
 
-*.section-tagline {
+.section-tagline {
     background-color: #D73953;
 }
