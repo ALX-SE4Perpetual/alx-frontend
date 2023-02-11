@@ -33,7 +33,7 @@ a {
     color: var(--color-primary);
 }
 
-/* Target the root element and create custom properties */
+/* Add Open Sans and Raleway to the list of fonts */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
