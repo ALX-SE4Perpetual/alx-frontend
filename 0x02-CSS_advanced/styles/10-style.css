@@ -34,7 +34,6 @@ a {
 /* Just above the section-tagline declaration, create a new declaration
 targeting the class section-header */
 .section-header {
-    display: flex;
     align-items: var(--section-header-align);
 }
 
