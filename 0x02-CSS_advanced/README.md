@@ -7,7 +7,79 @@
 
 ## Table of Contents
 
--   [Resources]()
+-   [Resources](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#resources)
+
+- [Learning Objectives](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#learning-objectives)
+
+- [Requirements](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#requirements)
+
+    -   [Req-General](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#general)
+
+    -   [Req-Files](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#files-you-need-for-the-project)
+
+-   [Tasks](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#tasks)
+
+    -   [0. Let's get some images!](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#0-lets-get-some-images)
+
+    -   [1. Effortless transitions when scrolling](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#1-effortless-transitions-when-scrolling)
+
+    -   [2. Do you know your color values?](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#2-do-you-know-your-color-values)
+
+    -   [3. Reuse and repeat. A programmer's life should be simple with variables](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#3-reuse-and-repeat-a-programmers-life-should-be-simple-with-variables)
+
+    -   [4. Variables for storing certain font types](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#4-variables-for-storing-certain-font-types)
+
+    -   [5. Variables for the font size](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#5-variables-for-the-font-size)
+
+    -   [6. Variables for the font-weight](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#6-variables-for-the-font-weight)
+
+    -   [7. Integrating Google Fonts into the CSS file](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#7-integrating-google-fonts-into-the-css-file)
+
+    -   [8. Defining line heights](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#8-defining-line-heights)
+
+    -   [9. Links are decorated by default, time to remove them](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#9-links-are-decorated-by-default-time-to-remove-them)
+
+    -   [10. Centering the section titles](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#10-centering-the-section-titles)
+
+    -   [11. Add more styles to the section tagline](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#11-add-more-styles-to-the-section-tagline)
+
+    -   [12. Adding more styling to the section title](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#12-adding-more-styling-to-the-section-title)
+
+    -   [13. Pseudo Classes](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#13-pseudo-classes)
+
+    -   [14. Resetting the CSS stylesheet for browser consistency](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#14-resetting-the-css-stylesheet-for-browser-consistency)
+
+    -   [15. Add universal box-sizing](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#15-add-universal-box-sizing)
+
+    -   [16. Styling the container](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#16-styling-the-container)
+
+    -   [17. Adding padding to sections](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#17-adding-padding-to-sections)
+
+    -   [18. Customizing the navbar](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#18-customizing-the-navbar)
+
+    -   [19. Grid styling and custom variables](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#19-grid-styling-and-custom-variables)
+
+    -   [20. Clear the context of the grid](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#20-clear-the-context-of-the-grid)
+
+    -   [21. Simplify the col- selector](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#21-simplify-the-col--selector)
+
+    -   [22. Add a dark theme to sections](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#22-add-a-dark-theme-to-sections)
+
+    -   [25. Add border to the button](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#25-add-border-to-the-button)
+
+    -   [26. Add border radius to images](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#26-add-border-radius-to-images)
+
+    -   [27. Styling the section hero](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#27-styling-the-section-hero)
+
+    -   [28. Fixing the header and menu navigation bar](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#28-fixing-the-header-and-menu-navigation-bar)
+
+    -   [29. Styling and custom properties for the nav](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#29-styling-and-custom-properties-for-the-nav)
+
+    -   [30. Fix the works section](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#30-fix-the-works-section)
+
+    -   [31. Add quotes decoration on testimonials](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#31-add-quotes-decoration-on-testimonials)
+
+    -   [32. Incorporating transitions](https://github.com/Perpy-del/alx-frontend/tree/main/0x02-CSS_advanced#32-incorporating-transitions)
 
 
 ## Resources
