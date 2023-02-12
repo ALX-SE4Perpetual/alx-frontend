@@ -9,7 +9,6 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
   color: var(--text-color);
   font-family: var(--font-family-base);
   font-size: var(--font-size-medium);
