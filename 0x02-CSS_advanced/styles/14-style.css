@@ -36,10 +36,13 @@ h1 {
   margin: 0.67em 0;
 }
 
+a {
+    background-color: transparent;
+}
+
 a:link {
   color: var(--text-color);
   text-decoration: none;
-  background-color: transparent;
 }
 
 a:visited {
@@ -84,6 +87,10 @@ a:active {
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
+}
+
+img {
+    border-style: none;
 }
 
 :root {
