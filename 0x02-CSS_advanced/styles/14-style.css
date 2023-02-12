@@ -30,26 +30,20 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
-
-a {
-    background-color: transparent;
-}
-
 a:link {
   color: var(--text-color);
   text-decoration: none;
+  background-color: transparent;
 }
 
 a:visited {
   font-style: italic;
+  background-color: transparent;
 }
 
 a:hover {
   text-decoration: underline;
+  background-color: transparent;
 }
 
 a:active {
@@ -68,11 +62,6 @@ a:active {
   text-align: var(--section-header-align);
 }
 
-.section-header h1, .section-tagline h1, .section title h1 {
-    font-size: 2em;
-    margin: 0.67em 0;
-}
-
 .section-title {
   font-family: var(--font-family-title);
   font-size: var(--font-size-xx-large);
@@ -86,10 +75,6 @@ a:active {
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
-}
-
-img {
-    border-style: none;
 }
 
 :root {
