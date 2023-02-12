@@ -14,10 +14,6 @@ body {
   line-height: var(--line-height-base);
 }
 
-main {
-  display: block;
-}
-
 h1,
 h2,
 h3,
