@@ -42,32 +42,8 @@ a:hover {
 }
 
 a:active {
-  /* background-color: var(--color-light-grey); */
-  background-color: transparent;
-}
-
-img {
-  border-style: none;
-}
-
-hr {
-  box-sizing: content-box; /* 1 */
-  height: 0; /* 1 */
-  overflow: visible; /* 2 */
-}
-
-hr {
-  box-sizing: content-box; /* 1 */
-  height: 0; /* 1 */
-  overflow: visible; /* 2 */
-}
-
-details {
-  display: block;
-}
-
-summary {
-  display: list-item;
+  background-color: var(--color-light-grey);
+  /* background-color: transparent; */
 }
 
 .visually-hidden {
