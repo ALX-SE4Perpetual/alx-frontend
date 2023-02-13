@@ -262,10 +262,5 @@ a:active {
 }
 
 svg {
-    color: var(--text-color);
-    /* background-color: white; */
+    fill: var(--text-color);
 }
-
-/* .social-link svg {
-    color: var(--text-color);
-} */
