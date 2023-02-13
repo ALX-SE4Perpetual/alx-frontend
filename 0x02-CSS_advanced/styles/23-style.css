@@ -258,10 +258,12 @@ a:active {
 
 .social-link {
     display: block;
+    color: var(--text-color);
 }
 
-.social-link, .social-link svg {
+svg {
     color: var(--text-color);
+    /* background-color: white; */
 }
 
 /* .social-link svg {
