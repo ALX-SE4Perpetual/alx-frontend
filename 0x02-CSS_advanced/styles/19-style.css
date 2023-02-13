@@ -128,9 +128,9 @@ body {
     float: right;
 }
 
-.row > ul {
+ul.row {
     margin: 0;
-    padding: 0;
+    padding: none;
     list-style: none;
 }
 
@@ -232,6 +232,6 @@ a:active {
     margin-right: auto;
 }
 
-.footer {
+ul.footer {
     padding: var(--footer-padding);
 }
