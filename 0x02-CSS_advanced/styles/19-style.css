@@ -128,7 +128,7 @@ body {
     float: right;
 }
 
-ul .row {
+.row > ul {
     margin: 0;
     padding: none;
     list-style: none;
