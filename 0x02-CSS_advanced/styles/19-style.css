@@ -128,9 +128,9 @@ body {
     float: right;
 }
 
-ul .row {
+.row ul {
     margin: 0;
-    padding: 0;
+    padding: none;
     list-style: none;
 }
 
@@ -147,12 +147,12 @@ ul .row {
 }
 
 .footer-copyright {
-    margin: 0;
+    margin: none;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
 
-footer ul {
+.footer ul {
     text-align: right;
 }
 
