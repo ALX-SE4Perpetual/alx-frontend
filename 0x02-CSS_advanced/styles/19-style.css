@@ -232,6 +232,6 @@ a:active {
     margin-right: auto;
 }
 
-ul.footer {
+.footer {
     padding: var(--footer-padding);
 }
