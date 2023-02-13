@@ -77,7 +77,7 @@ template{display: none;} /* prettier-ignore */
   --nav-item-font-size: var(--font-size-medium);
   --nav-item-letter-spacing: 0.64rem;
   --nav-item-display: inline-block;
-  --nav-item-margin: 0 0 3rem;
+  --nav-item-margin: 0 0 3em;
   --nav-item-link-hover: var(--color-primary);
 }
 
@@ -116,7 +116,7 @@ body {
 
 .nav-link {
     display: block;
-    padding: 0.5em 1em;
+    padding: calc(50%-16px) calc(100%-16px);
 }
 
 .nav-link:hover {
