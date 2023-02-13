@@ -256,7 +256,7 @@ a:active {
     color: var(--text-color);
 }
 
-.social-link {
+.social-link, .social-link svg {
     display: block;
     color: var(--text-color);
 }
