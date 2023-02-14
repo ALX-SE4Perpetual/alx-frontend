@@ -414,7 +414,7 @@ a:active {
     position: relative;
 }
 
-.card-work .card-title a {
+.card-work a, .card-title a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
