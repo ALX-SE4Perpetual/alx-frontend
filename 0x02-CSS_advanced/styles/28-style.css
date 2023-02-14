@@ -184,7 +184,7 @@ ul.row {
 
 /* Header Class */
 
-header {
+.header {
     padding: var(--header-padding);
 }
 
